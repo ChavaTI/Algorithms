@@ -1,4 +1,4 @@
-#include "modules/calculations.h";
+#include "modules/calculations.h"
 #include <cstdlib>
 #include <stdio.h>
 
